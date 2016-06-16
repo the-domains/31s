@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[31s]]></title>
-        <description><![CDATA[31s]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[#31s]]></title>
+        <description><![CDATA[#31s]]></description>
+        <link>https://thegrid.ai/31s/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 14:30:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 18:14:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/31s/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tes]]></title>
+            <description><![CDATA[<p>test</p>]]></description>
+            <link>https://thegrid.ai/31s/tes/index.html</link>
+            <guid isPermaLink="false">af13ec96-8d6d-4521-824a-e04d31c6b99c</guid>
+            <pubDate>Thu, 16 Jun 2016 18:14:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af1a26d0-1639-45ba-bb62-ba7274580bbb.png">]]></description>
-            <link>undefined31s-is-an-album-by-analogsoulde-intended-for-the-release-o/index.html</link>
+            <link>https://thegrid.ai/31s/31s-is-an-album-by-analogsoulde-intended-for-the-release-o/index.html</link>
             <guid isPermaLink="false">3a110efd-bf2e-491b-be54-8e3322c8ab72</guid>
             <pubDate>Thu, 16 Jun 2016 14:30:57 GMT</pubDate>
         </item>
