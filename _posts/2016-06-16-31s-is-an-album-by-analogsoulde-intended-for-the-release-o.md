@@ -8,15 +8,15 @@ description: >-
   #31s is an album by analogsoul.de intended for the release on streaming
   services only. ONE of my ideas is to use colors that can be used on screen
   only like a very bright blue, pink or red 
-datePublished: '2016-06-16T14:30:57.594Z'
-dateModified: '2016-06-16T14:30:48.620Z'
+datePublished: '2016-06-16T18:14:33.347Z'
+dateModified: '2016-06-16T18:14:32.888Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-16-31s-is-an-album-by-analogsoulde-intended-for-the-release-o.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-16-31s-is-an-album-by-analogsoulde-intended-for-the-release-o.md
 url: 31s-is-an-album-by-analogsoulde-intended-for-the-release-o/index.html
 _type: Article
 
