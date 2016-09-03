@@ -1,6 +1,6 @@
-name: 31s
+name: '#31s'
 favicon: null
-layout_spectrum: 0.46454290370456874
+layout_spectrum: 1
 typography_spectrum: 0.6669083072338253
 title: '#31s'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#231f20'
     - '#7b95ff'
     - '#d2dbff'
-  brandStrength: 0.3462374717928469
+  brandStrength: 0
   lightness: 0.8398879782762378
-  saturation: 0.02829430135898292
+  saturation: 0
   rhythmicContrast: 0.2960770328063518
 purpose: []
